@@ -24,4 +24,4 @@ This project features:
 Contributions, issues, and feature requests are welcome!  
 
 ## Author  
-💙 Developed by **[Deepak Panneerselvam](https://github.com/deepakpanneerselvam)**.
+💙 Developed by **[Deepak Panneerselvam](https://github.com/DeepakPanneerselvam1455)**.
